@@ -4,6 +4,10 @@
 - 現実世界と繋がり、AIを活用する新しい学び
 
 ## 担当別ワーク
+UI：いっちー
+概要/教材：The Greatest Technician That's Ever Lived
+機能:nikkun
+
 
 ### 概要・ターゲット・ビジネスモデル
 - 1人目が記入
